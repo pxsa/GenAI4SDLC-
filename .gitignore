@@ -2,3 +2,5 @@ venv
 offline_material
 dataset
 shahname/data
+*.pth
+*.json
